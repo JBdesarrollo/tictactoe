@@ -1,0 +1,12 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Tic-Tac-Toe",
+  "short_name": "Tic-Tac-Toe",
+  "version": "com.jbdesarrollo.titactoe",
+  "description": "Juego de gato muy básico",
+  "author": "JB Desarrollo",
+  "icons": [],
+  "orientation": "portrait",
+  "start_url": "index.html"
+}
